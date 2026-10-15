@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Tìm tài liệu",
+  "short_name": "Tài liệu",
+  "description": "Khung ứng dụng tìm kiếm tài liệu trên thiết bị.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#122033"
+}
